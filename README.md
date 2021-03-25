@@ -1,0 +1,2 @@
+# bugsplat_download
+下载bugsplat上的dump文件
