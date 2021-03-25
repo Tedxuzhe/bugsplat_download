@@ -7,8 +7,8 @@ import os
 
 
 # 登录用户名和密码
-bugsplat_email = "filme@imyfone.com"
-bugsplat_password = "Filmeimyfone@2020"
+bugsplat_email = ""
+bugsplat_password = ""
 
 bugsplat_database = "filme_imyfone_com"
 
